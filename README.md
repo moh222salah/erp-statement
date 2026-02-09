@@ -11,28 +11,6 @@
 
 ---
 
-</div>
-
-## 📊 System Overview
-
-An advanced financial management system built on ERPNext, providing comprehensive account statement analytics with real-time data visualization and multi-currency support. Designed for businesses operating in the Middle East and Gulf regions.
-
-<details open>
-<summary><b>🎯 Key Features</b></summary>
-
-- ✨ **Real-time Financial Tracking** - Monitor debits, credits, and balances instantly
-- 📈 **Advanced Analytics** - Comprehensive financial statement analysis
-- 🌍 **Multi-language Support** - Full Arabic and English interfaces
-- 💰 **Multi-currency Handling** - Support for multiple currencies with live conversion
-- 📱 **Responsive Design** - Seamless experience across all devices
-- 🔒 **Secure & Reliable** - Enterprise-grade security and data protection
-- 📊 **Visual Reports** - Interactive charts and financial dashboards
-- 🔄 **Automated Reconciliation** - Smart voucher categorization and matching
-
-</details>
-
----
-
 ## 💼 Business Intelligence
 
 <table>
@@ -157,6 +135,27 @@ graph TB
 - **Cash Flow** - Real-time cash position monitoring
 
 ---
+</div>
+
+## 📊 System Overview
+
+An advanced financial management system built on ERPNext, providing comprehensive account statement analytics with real-time data visualization and multi-currency support. Designed for businesses operating in the Middle East and Gulf regions.
+
+<details open>
+<summary><b>🎯 Key Features</b></summary>
+
+- ✨ **Real-time Financial Tracking** - Monitor debits, credits, and balances instantly
+- 📈 **Advanced Analytics** - Comprehensive financial statement analysis
+- 🌍 **Multi-language Support** - Full Arabic and English interfaces
+- 💰 **Multi-currency Handling** - Support for multiple currencies with live conversion
+- 📱 **Responsive Design** - Seamless experience across all devices
+- 🔒 **Secure & Reliable** - Enterprise-grade security and data protection
+- 📊 **Visual Reports** - Interactive charts and financial dashboards
+- 🔄 **Automated Reconciliation** - Smart voucher categorization and matching
+
+</details>
+
+--- 
 
 ## 🚀 Quick Start
 
